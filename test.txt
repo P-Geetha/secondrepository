@@ -1,1 +1,2 @@
 Hello welcome to github. to learn the use of git and all functionalities
+all the things need to be done
